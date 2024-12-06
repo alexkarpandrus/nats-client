@@ -9,8 +9,8 @@
     },
     .dependencies = .{
         .nats_c = .{
-            .url = "git+https://github.com/allyourcodebase/nats.c.git?ref=3.8.2+1#b0e28ff9cb067b1b420aa89c576b0a2e7ace8c65",
-            .hash = "1220caaef4a434269c574772a5020c1b56b1441822a235ea5c0a131e4a20fd347c3c",
+            .url = "git+https://github.com/allyourcodebase/nats.c.git?ref=3.9.1#be5a084d6e235de157e6183533b2575f413afc82",
+            .hash = "122052af6a8b2a226de6422b9f50140ea97e9fe27995d0aa257b7c773d41b20a414c",
         },
     },
 }
